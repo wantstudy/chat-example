@@ -1,4 +1,4 @@
-#安装Node环境
+安装Node环境
 
 npm install 
 
